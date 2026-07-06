@@ -13,6 +13,6 @@ Our blocks deliver:
 
 ## 💻 Tech Stack
 This is a lightweight, high-performance static website built for speed and global accessibility.
-* **Frontend:** HTML5, CSS3, Vanilla JavaScript
+* **Frontend:** HTML5, CSS3, JavaScript
 * **Form Handling:** [Formspree](https://formspree.io/) (Serverless form submissions)
 * **Hosting & CI/CD:** [Netlify](https://www.netlify.com/) (Automated deployments from the `main` branch)
