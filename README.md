@@ -1,6 +1,6 @@
 # REDROX Industries - Official Website
 
-![REDROX - The Backbone of Better Buildings](https://redroxindustries.com/favicon.ico)
+![REDROX - The Backbone of Better Buildings](images/logo-combined.png)
 
 > **Live Website:** [redroxindustries.com](https://redroxindustries.com)
 
@@ -11,10 +11,11 @@ This repository contains the source code for the official website of **REDROX In
 REDROX is an innovative, clean-tech construction startup solving the global textile waste crisis. We manufacture sustainable, high-strength interlocking infrastructure blocks using shredded waste cloth fibers and 110-ton hydraulic compression technology. 
 
 Our blocks deliver:
-* **Strength:** 4-5x stronger than conventional bricks.
-* **Speed:** Reduces construction timelines from 2 years to ~6 months via dry-stack interlocking.
-* **Comfort:** Proven 10°C thermal insulation and advanced acoustic soundproofing.
-* **Sustainability:** 70% reduction in water and cement usage per project.
+
+* **Strength:** 4–5× greater load-bearing capacity than conventional clay bricks.
+* **Speed:** Reduces construction timelines from two years to about six months through dry-stack interlocking.
+* **Comfort:** Keeps indoor temperatures up to 10°C cooler and reduces sound, echo, and vibration.
+* **Sustainability:** Reduces water consumption by up to 70% while delivering significant cement savings.
 
 ## 💬 REDROX Assistant
 
