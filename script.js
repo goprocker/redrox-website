@@ -24,7 +24,9 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     /* INITIALIZE AOS ANIMATIONS */
-    AOS.init({ once: true, offset: 50 });
+    if (window.AOS) {
+        AOS.init({ once: true, offset: 50 });
+    }
 
     /* SPOTLIGHT EFFECT & INTERACTIVE CANVAS */
     const spotlight = document.getElementById('spotlight');
