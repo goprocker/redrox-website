@@ -662,6 +662,7 @@ nav {
   background:linear-gradient(135deg, #ef3038, #9f1119);
   color:#fff;
   font-weight:700;
+  letter-spacing:0.01em;
   box-shadow:0 1rem 3rem rgba(0,0,0,0.32), 0 0 2rem rgba(211,47,47,0.28);
   cursor:pointer;
   transition:transform 180ms ease, box-shadow 180ms ease;
