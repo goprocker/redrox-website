@@ -427,6 +427,18 @@ nav {
     object-fit: cover;
     object-position: top center;
 }
+.team-img-box.team-initials {
+    display: grid;
+    place-items: center;
+    background: linear-gradient(145deg, #241313, #8f1d1d);
+}
+.team-initials > span {
+    color: #fff;
+    font-family: var(--font-heading);
+    font-size: clamp(64px, 7vw, 108px);
+    font-weight: 700;
+    letter-spacing: 0.04em;
+}
 .team-info {
     flex: 1;
     display: flex;
